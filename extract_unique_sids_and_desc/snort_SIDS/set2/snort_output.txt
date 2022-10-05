@@ -1,0 +1,47 @@
+10/05-10:19:50.704800  [**] [1:469:3] ICMP PING NMAP [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-10:19:50.704800  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-10:19:50.704800  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-10:19:50.704838  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-10:19:50.704838  [**] [1:453:5] ICMP Timestamp Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-11:23:26.853190  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 35.208.1.44 -> 192.168.0.143
+10/05-11:23:26.853190  [**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 35.208.1.44 -> 192.168.0.143
+10/05-11:35:10.996753  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 185.80.36.245 -> 192.168.0.143
+10/05-11:35:10.996753  [**] [1:396:6] ICMP Destination Unreachable Fragmentation Needed and DF bit was set [**] [Classification: Misc activity] [Priority: 3] {ICMP} 185.80.36.245 -> 192.168.0.143
+10/05-12:00:45.294493  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 185.80.36.245 -> 192.168.0.143
+10/05-12:00:45.294493  [**] [1:396:6] ICMP Destination Unreachable Fragmentation Needed and DF bit was set [**] [Classification: Misc activity] [Priority: 3] {ICMP} 185.80.36.245 -> 192.168.0.143
+10/05-13:09:32.829229  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:09:32.829229  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:09.600019  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 185.80.36.245 -> 192.168.0.143
+10/05-13:10:09.600019  [**] [1:396:6] ICMP Destination Unreachable Fragmentation Needed and DF bit was set [**] [Classification: Misc activity] [Priority: 3] {ICMP} 185.80.36.245 -> 192.168.0.143
+10/05-13:10:27.741744  [**] [1:469:3] ICMP PING NMAP [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:27.741744  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:27.741744  [**] [1:365:8] ICMP PING undefined code [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:27.797796  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:27.797796  [**] [1:453:5] ICMP Timestamp Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:27.854510  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:27.854510  [**] [1:388:5] ICMP Address Mask Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:28.905060  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:28.905060  [**] [1:388:5] ICMP Address Mask Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:29.957715  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:29.957715  [**] [1:417:5] ICMP Information Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:31.005931  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:10:31.005931  [**] [1:417:5] ICMP Information Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:11:06.434108  [**] [1:469:3] ICMP PING NMAP [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:11:06.434108  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:11:06.434108  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:11:43.242709  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:11:43.418789  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:11:43.418789  [**] [1:453:5] ICMP Timestamp Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:11:44.391351  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.289707  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.289707  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.350973  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.350973  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.414894  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.414894  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.475888  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.475888  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.555405  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:18:05.555405  [**] [1:384:5] ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/05-13:41:14.145526  [**] [1:464:0] ICMP alertped [**] [Priority: 0] {ICMP} 185.80.36.245 -> 192.168.0.143
+10/05-13:41:14.145526  [**] [1:396:6] ICMP Destination Unreachable Fragmentation Needed and DF bit was set [**] [Classification: Misc activity] [Priority: 3] {ICMP} 185.80.36.245 -> 192.168.0.143
