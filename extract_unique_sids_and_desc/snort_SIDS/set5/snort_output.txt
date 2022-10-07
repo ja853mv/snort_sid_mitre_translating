@@ -1,0 +1,427 @@
+10/06-16:00:31.783476  [**] [1:469:3] ICMP PING NMAP [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:00:31.783476  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:00:31.783476  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:00:31.783493  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:00:31.783493  [**] [1:408:5] T1082 -> ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:00:31.784106  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:00:31.784106  [**] [1:453:5] ICMP Timestamp Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:00:31.784110  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:00:31.784110  [**] [1:451:5] ICMP Timestamp Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:00:54.442416  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:01:59.008443  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:03:08.187123  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:04:10.767051  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:05:13.397737  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:06:13.448771  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:07:13.742055  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:08:18.127364  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:09:23.980627  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:09:24.083782  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:10:29.350487  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:11:30.940057  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+
+^^^^ nmap scan done ^^^^
+
+10/06-16:12:30.509024  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:12:51.864441  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:12:51.864441  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:12:51.864463  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:12:51.864463  [**] [1:408:5] T1082 -> ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:13:31.986373  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:13:59.072772  [**] [1:469:3] ICMP PING NMAP [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:13:59.072772  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:13:59.072772  [**] [1:365:8] ICMP PING undefined code [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:13:59.072784  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:13:59.072784  [**] [1:409:7] ICMP Echo Reply undefined code [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:13:59.139499  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:13:59.139499  [**] [1:453:5] ICMP Timestamp Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:13:59.139507  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:13:59.139507  [**] [1:451:5] ICMP Timestamp Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:13:59.211812  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:13:59.211812  [**] [1:388:5] ICMP Address Mask Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:00.264478  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:00.264478  [**] [1:388:5] ICMP Address Mask Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:01.328392  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:01.328392  [**] [1:417:5] ICMP Information Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:02.375647  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:02.375647  [**] [1:417:5] ICMP Information Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:03.423544  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:14:03.423544  [**] [1:402:7] ICMP Destination Unreachable Port Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:14:34.884102  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 93.184.216.34
+10/06-16:14:34.884102  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 93.184.216.34
+10/06-16:14:41.150266  [**] [1:469:3] ICMP PING NMAP [**] [Classification: Attempted Information Leak] [Priority: 2] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:41.150266  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:41.150266  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:14:41.150273  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:14:41.150273  [**] [1:408:5] T1082 -> ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:14:45.146961  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:15:12.955268  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:12.955268  [**] [1:404:6] ICMP Destination Unreachable Protocol Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:13.999242  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:13.999242  [**] [1:404:6] ICMP Destination Unreachable Protocol Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:15.059808  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:15.059808  [**] [1:404:6] ICMP Destination Unreachable Protocol Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:16.108572  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:16.108572  [**] [1:404:6] ICMP Destination Unreachable Protocol Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:17.147586  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:17.147586  [**] [1:404:6] ICMP Destination Unreachable Protocol Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:18.193633  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:18.193633  [**] [1:404:6] ICMP Destination Unreachable Protocol Unreachable [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:19.764122  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:15:20.807755  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:15:21.929115  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:15:21.929115  [**] [1:453:5] ICMP Timestamp Request [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:15:21.929131  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:21.929131  [**] [1:451:5] ICMP Timestamp Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:15:57.562493  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:17:01.276729  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:18:14.753921  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:19:15.477652  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:20:27.111293  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:21:37.789985  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:21:45.304979  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.304979  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.304990  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.304990  [**] [1:408:5] T1082 -> ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.365394  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.365394  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.365406  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.365406  [**] [1:408:5] T1082 -> ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.433843  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.433843  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.433853  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.433853  [**] [1:408:5] T1082 -> ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.510103  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.510103  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.510111  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.510111  [**] [1:408:5] T1082 -> ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.565873  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.565873  [**] [1:384:5] T1082 -> ICMP PING [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.155 -> 192.168.0.143
+10/06-16:21:45.565882  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:21:45.565882  [**] [1:408:5] T1082 -> ICMP Echo Reply [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.143 -> 192.168.0.155
+10/06-16:22:00.161310  [**] [1:58723:5] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:53847 -> 192.168.0.143:8000
+10/06-16:22:00.161310  [**] [1:58737:4] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:53847 -> 192.168.0.143:8000
+10/06-16:22:00.161310  [**] [1:58726:6] SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:53847 -> 192.168.0.143:8000
+10/06-16:22:00.161310  [**] [1:58743:6] SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:53847 -> 192.168.0.143:8000
+10/06-16:22:00.161310  [**] [1:58742:7] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:53847 -> 192.168.0.143:8000
+10/06-16:22:20.242339  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::491:33ae:c3ae:9130 -> ff02::16
+10/06-16:22:21.245994  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::491:33ae:c3ae:9130 -> ff02::16
+10/06-16:22:39.667411  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:22:39.770464  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:23:42.241899  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:24:42.314412  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:24:42.417487  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:17:53.989356  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35057 -> 192.168.0.143:8000
+10/06-16:17:22.200581  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:55903 -> 192.168.0.143:8000
+10/06-16:21:49.513780  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60767 -> 192.168.0.143:8000
+10/06-16:17:29.292941  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56023 -> 192.168.0.143:8000
+10/06-16:22:01.737241  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35449 -> 192.168.0.143:8000
+10/06-16:17:17.190069  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:47787 -> 192.168.0.143:8000
+10/06-16:22:01.008212  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:46741 -> 192.168.0.143:8000
+10/06-16:22:21.913816  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36515 -> 192.168.0.143:8000
+10/06-16:18:05.643638  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:38737 -> 192.168.0.143:8000
+10/06-16:22:23.273543  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:59935 -> 192.168.0.143:8000
+10/06-16:22:27.614773  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45437 -> 192.168.0.143:8000
+10/06-16:13:55.113670  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35807 -> 192.168.0.143:8000
+10/06-16:19:20.998186  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45383 -> 192.168.0.143:8000
+10/06-16:23:16.808508  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33403 -> 192.168.0.143:8000
+10/06-16:23:00.115223  [**] [1:58722:5] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:36107 -> 192.168.0.143:8000
+10/06-16:23:00.115223  [**] [1:58744:6] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:36107 -> 192.168.0.143:8000
+10/06-16:23:22.792947  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:42309 -> 192.168.0.143:8000
+10/06-16:23:24.567028  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:55947 -> 192.168.0.143:8000
+10/06-16:23:17.058759  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:40941 -> 192.168.0.143:8000
+10/06-16:19:28.636487  [**] [1:58722:5] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:35437 -> 192.168.0.143:8000
+10/06-16:19:28.636487  [**] [1:58744:6] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:35437 -> 192.168.0.143:8000
+10/06-16:23:36.299349  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43583 -> 192.168.0.143:8000
+10/06-16:22:06.117063  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52527 -> 192.168.0.143:8000
+10/06-16:23:09.729667  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33215 -> 192.168.0.143:8000
+10/06-16:18:37.831269  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56447 -> 192.168.0.143:8000
+10/06-16:21:49.893260  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35237 -> 192.168.0.143:8000
+10/06-16:23:29.259898  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36363 -> 192.168.0.143:8000
+10/06-16:25:45.998713  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:23:59.150961  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:59745 -> 192.168.0.143:8000
+10/06-16:19:30.880821  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60631 -> 192.168.0.143:8000
+10/06-16:19:24.808207  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53545 -> 192.168.0.143:8000
+10/06-16:19:54.791153  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56071 -> 192.168.0.143:8000
+10/06-16:20:23.264620  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43177 -> 192.168.0.143:8000
+10/06-16:20:12.766817  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45023 -> 192.168.0.143:8000
+10/06-16:21:10.123780  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:46247 -> 192.168.0.143:8000
+10/06-16:24:01.080113  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41419 -> 192.168.0.143:8000
+10/06-16:17:59.687838  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48519 -> 192.168.0.143:8000
+10/06-16:22:24.610974  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:55131 -> 192.168.0.143:8000
+10/06-16:17:17.240318  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:55299 -> 192.168.0.143:8000
+10/06-16:24:10.539197  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48625 -> 192.168.0.143:8000
+10/06-16:24:16.428143  [**] [1:31978:5] T1190 -> OS-OTHER Bash CGI environment variable injection attempt [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:41781 -> 192.168.0.143:8000
+10/06-16:24:17.630215  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54785 -> 192.168.0.143:8000
+10/06-16:19:31.470014  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:49467 -> 192.168.0.143:8000
+10/06-16:22:47.882794  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34713 -> 192.168.0.143:8000
+10/06-16:24:22.364851  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36335 -> 192.168.0.143:8000
+10/06-16:24:22.541697  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56429 -> 192.168.0.143:8000
+10/06-16:24:02.264177  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53181 -> 192.168.0.143:8000
+10/06-16:14:56.773963  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:32995 -> 192.168.0.143:8000
+10/06-16:24:14.148886  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:42987 -> 192.168.0.143:8000
+10/06-16:23:24.890764  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53759 -> 192.168.0.143:8000
+10/06-16:24:03.016377  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41877 -> 192.168.0.143:8000
+10/06-16:20:26.982414  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:58641 -> 192.168.0.143:8000
+10/06-16:17:16.465640  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:38243 -> 192.168.0.143:8000
+10/06-16:20:15.069173  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36477 -> 192.168.0.143:8000
+10/06-16:24:45.244577  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52123 -> 192.168.0.143:8000
+10/06-16:24:45.270541  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:51855 -> 192.168.0.143:8000
+10/06-16:24:45.489588  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50763 -> 192.168.0.143:8000
+10/06-16:24:45.638494  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:57085 -> 192.168.0.143:8000
+10/06-16:24:45.806620  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41283 -> 192.168.0.143:8000
+10/06-16:24:45.913316  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54835 -> 192.168.0.143:8000
+10/06-16:15:39.118181  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:40253 -> 192.168.0.143:8000
+10/06-16:24:46.455540  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41111 -> 192.168.0.143:8000
+10/06-16:20:43.029418  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36049 -> 192.168.0.143:8000
+10/06-16:22:06.117014  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53221 -> 192.168.0.143:8000
+10/06-16:24:24.117628  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39551 -> 192.168.0.143:8000
+10/06-16:20:41.613498  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34283 -> 192.168.0.143:8000
+10/06-16:16:17.120592  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60569 -> 192.168.0.143:8000
+10/06-16:20:17.147874  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34223 -> 192.168.0.143:8000
+10/06-16:24:47.357058  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53365 -> 192.168.0.143:8000
+10/06-16:22:52.817588  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48719 -> 192.168.0.143:8000
+10/06-16:15:48.996874  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43189 -> 192.168.0.143:8000
+10/06-16:16:14.069911  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:37951 -> 192.168.0.143:8000
+10/06-16:24:49.911029  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52911 -> 192.168.0.143:8000
+10/06-16:24:01.098426  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52035 -> 192.168.0.143:8000
+10/06-16:26:46.681856  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:24:12.612731  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33005 -> 192.168.0.143:8000
+10/06-16:26:47.827085  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} :: -> ff02::1:ffa3:ef9c
+10/06-16:26:47.843639  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::800:1fc5:97a3:ef9c -> ff02::2
+10/06-16:26:48.823256  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::800:1fc5:97a3:ef9c -> ff02::16
+10/06-16:22:36.117136  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:47573 -> 192.168.0.143:8000
+10/06-16:24:55.087307  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:42687 -> 192.168.0.143:8000
+10/06-16:22:45.825719  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35061 -> 192.168.0.143:8000
+10/06-16:20:16.947571  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48325 -> 192.168.0.143:8000
+10/06-16:20:15.425889  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:40129 -> 192.168.0.143:8000
+10/06-16:24:57.901470  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34381 -> 192.168.0.143:8000
+10/06-16:25:00.261368  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:42155 -> 192.168.0.143:8000
+10/06-16:22:33.511747  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:44981 -> 192.168.0.143:8000
+10/06-16:24:23.695254  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56935 -> 192.168.0.143:8000
+10/06-16:25:07.889482  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35513 -> 192.168.0.143:8000
+10/06-16:27:06.293955  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::800:1fc5:97a3:ef9c -> ff02::16
+10/06-16:27:07.707486  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::800:1fc5:97a3:ef9c -> ff02::2
+10/06-16:24:50.184358  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48601 -> 192.168.0.143:8000
+10/06-16:25:12.692908  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:46583 -> 192.168.0.143:8000
+10/06-16:14:00.832640  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:57091 -> 192.168.0.143:8000
+10/06-16:23:00.391655  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:46789 -> 192.168.0.143:8000
+10/06-16:14:55.156818  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50781 -> 192.168.0.143:8000
+10/06-16:20:06.596983  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41329 -> 192.168.0.143:8000
+10/06-16:20:59.827381  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:58623 -> 192.168.0.143:8000
+10/06-16:25:19.689846  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:40345 -> 192.168.0.143:8000
+10/06-16:25:20.657985  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54153 -> 192.168.0.143:8000
+10/06-16:22:28.075378  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43973 -> 192.168.0.143:8000
+10/06-16:19:45.525693  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:59169 -> 192.168.0.143:8000
+10/06-16:24:11.251609  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35389 -> 192.168.0.143:8000
+10/06-16:25:25.636605  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48585 -> 192.168.0.143:8000
+10/06-16:27:26.583303  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::800:1fc5:97a3:ef9c -> ff02::2
+10/06-16:22:45.168993  [**] [1:58722:5] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:36275 -> 192.168.0.143:8000
+10/06-16:22:45.168993  [**] [1:58744:6] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:36275 -> 192.168.0.143:8000
+10/06-16:25:30.884871  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41021 -> 192.168.0.143:8000
+10/06-16:24:57.275296  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:37119 -> 192.168.0.143:8000
+10/06-16:25:21.601355  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:55057 -> 192.168.0.143:8000
+10/06-16:20:21.222764  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33105 -> 192.168.0.143:8000
+10/06-16:19:05.288191  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45241 -> 192.168.0.143:8000
+10/06-16:24:48.385602  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60079 -> 192.168.0.143:8000
+10/06-16:27:33.320996  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::21c:42ff:fefa:19ea -> ff02::16
+10/06-16:27:33.447760  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::21c:42ff:fefa:19ea -> ff02::16
+10/06-16:27:33.514082  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::21c:42ff:fefa:19ea -> ff02::16
+10/06-16:20:12.971993  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50057 -> 192.168.0.143:8000
+10/06-16:24:41.746184  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:51427 -> 192.168.0.143:8000
+10/06-16:28:00.585338  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:28:35.635780  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::21c:42ff:fefa:19ea -> ff02::16
+10/06-16:28:35.771803  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::21c:42ff:fefa:19ea -> ff02::16
+10/06-16:17:43.379771  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39627 -> 192.168.0.143:8000
+10/06-16:24:56.222408  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54217 -> 192.168.0.143:8000
+10/06-16:23:13.812031  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:58529 -> 192.168.0.143:8000
+10/06-16:28:36.574752  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::21c:42ff:fefa:19ea -> ff02::16
+10/06-16:20:12.193317  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:40061 -> 192.168.0.143:8000
+10/06-16:24:05.163302  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:51601 -> 192.168.0.143:8000
+10/06-16:25:47.360689  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54029 -> 192.168.0.143:8000
+10/06-16:19:30.577017  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43359 -> 192.168.0.143:8000
+10/06-16:24:48.248243  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36809 -> 192.168.0.143:8000
+10/06-16:20:14.335074  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60493 -> 192.168.0.143:8000
+10/06-16:25:16.210408  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45891 -> 192.168.0.143:8000
+10/06-16:25:59.421326  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45037 -> 192.168.0.143:8000
+10/06-16:24:49.850556  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45943 -> 192.168.0.143:8000
+10/06-16:24:01.775227  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36507 -> 192.168.0.143:8000
+10/06-16:25:22.526571  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33603 -> 192.168.0.143:8000
+10/06-16:24:20.410268  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43639 -> 192.168.0.143:8000
+10/06-16:16:14.334809  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:51249 -> 192.168.0.143:8000
+10/06-16:26:05.796632  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:47171 -> 192.168.0.143:8000
+10/06-16:25:04.521391  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48471 -> 192.168.0.143:8000
+10/06-16:26:08.033125  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45377 -> 192.168.0.143:8000
+10/06-16:29:01.339642  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:29:01.442915  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffa3:ef9c
+10/06-16:29:01.546539  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffa3:ef9c
+10/06-16:22:18.599206  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41583 -> 192.168.0.143:8000
+10/06-16:19:32.371270  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:55675 -> 192.168.0.143:8000
+10/06-16:26:13.424081  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56309 -> 192.168.0.143:8000
+10/06-16:24:48.376531  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56093 -> 192.168.0.143:8000
+10/06-16:20:48.418411  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53361 -> 192.168.0.143:8000
+10/06-16:20:24.866500  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60817 -> 192.168.0.143:8000
+10/06-16:24:53.826619  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50705 -> 192.168.0.143:8000
+10/06-16:23:06.598458  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50597 -> 192.168.0.143:8000
+10/06-16:20:43.395388  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:47443 -> 192.168.0.143:8000
+10/06-16:14:50.529798  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48989 -> 192.168.0.143:8000
+10/06-16:24:52.009155  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:58327 -> 192.168.0.143:8000
+10/06-16:26:24.514695  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:40337 -> 192.168.0.143:8000
+10/06-16:20:44.787601  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48307 -> 192.168.0.143:8000
+10/06-16:26:30.143854  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:37877 -> 192.168.0.143:8000
+10/06-16:19:05.771546  [**] [1:58727:5] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:41219 -> 192.168.0.143:8000
+10/06-16:19:05.771546  [**] [1:58734:4] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:41219 -> 192.168.0.143:8000
+10/06-16:26:32.850748  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:57035 -> 192.168.0.143:8000
+10/06-16:26:34.616269  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56787 -> 192.168.0.143:8000
+10/06-16:26:36.253884  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60835 -> 192.168.0.143:8000
+10/06-16:26:36.461875  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33751 -> 192.168.0.143:8000
+10/06-16:16:10.474931  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34439 -> 192.168.0.143:8000
+10/06-16:26:37.367570  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56225 -> 192.168.0.143:8000
+10/06-16:22:28.758556  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34377 -> 192.168.0.143:8000
+10/06-16:26:37.815871  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:58915 -> 192.168.0.143:8000
+10/06-16:21:58.747427  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60571 -> 192.168.0.143:8000
+10/06-16:20:49.597553  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:58767 -> 192.168.0.143:8000
+10/06-16:18:42.645929  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:55565 -> 192.168.0.143:8000
+10/06-16:25:23.203377  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36823 -> 192.168.0.143:8000
+10/06-16:19:46.552538  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:57949 -> 192.168.0.143:8000
+10/06-16:25:30.403395  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50865 -> 192.168.0.143:8000
+10/06-16:20:01.002868  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50679 -> 192.168.0.143:8000
+10/06-16:23:06.688184  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45803 -> 192.168.0.143:8000
+10/06-16:25:42.953248  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52897 -> 192.168.0.143:8000
+10/06-16:25:57.393551  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52305 -> 192.168.0.143:8000
+10/06-16:24:09.792576  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:44975 -> 192.168.0.143:8000
+10/06-16:16:19.555163  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:49417 -> 192.168.0.143:8000
+10/06-16:26:47.436570  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54991 -> 192.168.0.143:8000
+10/06-16:20:56.752005  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56459 -> 192.168.0.143:8000
+10/06-16:25:21.033064  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60921 -> 192.168.0.143:8000
+10/06-16:24:00.198520  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36787 -> 192.168.0.143:8000
+10/06-16:25:22.728289  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39699 -> 192.168.0.143:8000
+10/06-16:16:14.980653  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56661 -> 192.168.0.143:8000
+10/06-16:26:12.495541  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:44689 -> 192.168.0.143:8000
+10/06-16:26:57.043327  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41029 -> 192.168.0.143:8000
+10/06-16:26:57.294408  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:37257 -> 192.168.0.143:8000
+10/06-16:25:31.712502  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56743 -> 192.168.0.143:8000
+10/06-16:19:46.189697  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:55395 -> 192.168.0.143:8000
+10/06-16:27:01.416665  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:59023 -> 192.168.0.143:8000
+10/06-16:27:03.248977  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43161 -> 192.168.0.143:8000
+10/06-16:25:19.541227  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:47733 -> 192.168.0.143:8000
+10/06-16:20:40.348550  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48055 -> 192.168.0.143:8000
+10/06-16:24:08.572176  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:32861 -> 192.168.0.143:8000
+10/06-16:15:57.937861  [**] [1:31978:5] T1190 -> OS-OTHER Bash CGI environment variable injection attempt [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:39353 -> 192.168.0.143:8000
+10/06-16:24:46.962116  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:44751 -> 192.168.0.143:8000
+10/06-16:20:24.595935  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45155 -> 192.168.0.143:8000
+10/06-16:30:01.202331  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:20:10.837268  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:47333 -> 192.168.0.143:8000
+10/06-16:26:09.973941  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36513 -> 192.168.0.143:8000
+10/06-16:25:09.063461  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:37373 -> 192.168.0.143:8000
+10/06-16:20:44.916337  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:51371 -> 192.168.0.143:8000
+10/06-16:21:58.359160  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:58017 -> 192.168.0.143:8000
+10/06-16:25:19.028507  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53431 -> 192.168.0.143:8000
+10/06-16:27:02.468758  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33507 -> 192.168.0.143:8000
+10/06-16:22:02.420425  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34865 -> 192.168.0.143:8000
+10/06-16:27:09.580492  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:42907 -> 192.168.0.143:8000
+10/06-16:25:43.886299  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:59437 -> 192.168.0.143:8000
+10/06-16:25:29.849729  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54311 -> 192.168.0.143:8000
+10/06-16:25:50.737544  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39647 -> 192.168.0.143:8000
+10/06-16:27:14.009514  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34103 -> 192.168.0.143:8000
+10/06-16:25:21.934165  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53243 -> 192.168.0.143:8000
+10/06-16:25:14.205164  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50785 -> 192.168.0.143:8000
+10/06-16:24:54.457623  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43809 -> 192.168.0.143:8000
+10/06-16:26:45.455485  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34053 -> 192.168.0.143:8000
+10/06-16:21:54.569452  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53459 -> 192.168.0.143:8000
+10/06-16:25:18.218667  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:57381 -> 192.168.0.143:8000
+10/06-16:25:28.441114  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50667 -> 192.168.0.143:8000
+10/06-16:27:33.102465  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:59813 -> 192.168.0.143:8000
+10/06-16:26:37.834791  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:57599 -> 192.168.0.143:8000
+10/06-16:24:15.346627  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35409 -> 192.168.0.143:8000
+10/06-16:18:35.839000  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34321 -> 192.168.0.143:8000
+10/06-16:28:38.729271  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54413 -> 192.168.0.143:8000
+10/06-16:28:39.957189  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52159 -> 192.168.0.143:8000
+10/06-16:28:39.976108  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:46395 -> 192.168.0.143:8000
+10/06-16:23:37.605157  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39079 -> 192.168.0.143:8000
+10/06-16:23:24.644024  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56089 -> 192.168.0.143:8000
+10/06-16:26:52.971912  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35741 -> 192.168.0.143:8000
+10/06-16:24:46.791200  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43331 -> 192.168.0.143:8000
+10/06-16:27:24.897615  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39093 -> 192.168.0.143:8000
+10/06-16:23:20.702575  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:49933 -> 192.168.0.143:8000
+10/06-16:25:03.915364  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48187 -> 192.168.0.143:8000
+10/06-16:27:37.303514  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:50405 -> 192.168.0.143:8000
+10/06-16:16:21.879219  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54181 -> 192.168.0.143:8000
+10/06-16:27:20.715672  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:44797 -> 192.168.0.143:8000
+10/06-16:26:38.791364  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36593 -> 192.168.0.143:8000
+10/06-16:25:08.939397  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33567 -> 192.168.0.143:8000
+10/06-16:21:00.237992  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43097 -> 192.168.0.143:8000
+10/06-16:28:45.256685  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:42615 -> 192.168.0.143:8000
+10/06-16:24:47.762091  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43843 -> 192.168.0.143:8000
+10/06-16:22:05.120537  [**] [1:58723:5] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:49259 -> 192.168.0.143:8000
+10/06-16:22:05.120537  [**] [1:58737:4] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:49259 -> 192.168.0.143:8000
+10/06-16:22:05.120537  [**] [1:58726:6] SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:49259 -> 192.168.0.143:8000
+10/06-16:22:05.120537  [**] [1:58743:6] SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:49259 -> 192.168.0.143:8000
+10/06-16:22:05.120537  [**] [1:58742:7] T1190 -> SERVER-OTHER Apache Log4j logging remote code execution attempt [**] [Classification: Attempted User Privilege Gain] [Priority: 1] {TCP} 192.168.0.155:49259 -> 192.168.0.143:8000
+10/06-16:27:03.364745  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:59247 -> 192.168.0.143:8000
+10/06-16:27:16.677656  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:32823 -> 192.168.0.143:8000
+10/06-16:20:20.737769  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54063 -> 192.168.0.143:8000
+10/06-16:23:15.083421  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54807 -> 192.168.0.143:8000
+10/06-16:26:14.399726  [**] [1:45749:2] SERVER-WEBAPP PHPUnit PHP remote code execution attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43079 -> 192.168.0.143:8000
+10/06-16:25:18.878990  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:37845 -> 192.168.0.143:8000
+10/06-16:27:19.672381  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:42683 -> 192.168.0.143:8000
+10/06-16:25:18.075731  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35591 -> 192.168.0.143:8000
+10/06-16:26:06.101828  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:60469 -> 192.168.0.143:8000
+10/06-16:25:21.643501  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53127 -> 192.168.0.143:8000
+10/06-16:20:16.572825  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39357 -> 192.168.0.143:8000
+10/06-16:26:50.736367  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:37193 -> 192.168.0.143:8000
+10/06-16:28:58.900741  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53569 -> 192.168.0.143:8000
+10/06-16:28:59.636921  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36561 -> 192.168.0.143:8000
+10/06-16:23:52.723750  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54635 -> 192.168.0.143:8000
+10/06-16:28:59.759713  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36473 -> 192.168.0.143:8000
+10/06-16:23:44.116269  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48659 -> 192.168.0.143:8000
+10/06-16:24:22.200050  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54625 -> 192.168.0.143:8000
+10/06-16:20:24.423822  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54625 -> 192.168.0.143:8000
+10/06-16:23:57.838161  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43317 -> 192.168.0.143:8000
+10/06-16:25:12.692905  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:41957 -> 192.168.0.143:8000
+10/06-16:14:46.122613  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:46849 -> 192.168.0.143:8000
+10/06-16:26:41.819461  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:40783 -> 192.168.0.143:8000
+10/06-16:25:43.722140  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:44065 -> 192.168.0.143:8000
+10/06-16:25:21.763995  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:34717 -> 192.168.0.143:8000
+10/06-16:24:14.639734  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:37633 -> 192.168.0.143:8000
+10/06-16:22:30.650202  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:35973 -> 192.168.0.143:8000
+10/06-16:25:23.631192  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:53839 -> 192.168.0.143:8000
+10/06-16:29:05.327075  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:33803 -> 192.168.0.143:8000
+10/06-16:26:47.511711  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:48851 -> 192.168.0.143:8000
+10/06-16:31:15.819319  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:25:13.391899  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:43253 -> 192.168.0.143:8000
+10/06-16:29:09.646288  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:47743 -> 192.168.0.143:8000
+10/06-16:23:14.441770  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:51433 -> 192.168.0.143:8000
+10/06-16:20:10.532501  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39321 -> 192.168.0.143:8000
+10/06-16:20:47.887666  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:40887 -> 192.168.0.143:8000
+10/06-16:21:52.257621  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:36031 -> 192.168.0.143:8000
+10/06-16:20:03.055453  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:54877 -> 192.168.0.143:8000
+10/06-16:22:31.750983  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:45081 -> 192.168.0.143:8000
+10/06-16:26:31.617875  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:39363 -> 192.168.0.143:8000
+10/06-16:32:16.593943  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:25:24.554743  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52751 -> 192.168.0.143:8000
+10/06-16:33:16.763586  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:33:16.866386  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:34:27.968995  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:24:13.135312  [**] [1:19438:14] SQL url ending in comment characters - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:57985 -> 192.168.0.143:8000
+10/06-16:35:32.672050  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:36:32.280198  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:37:26.513597  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::21c:42ff:fefa:19ea -> ff02::2
+10/06-16:37:48.296305  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:38:53.601996  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:40:03.101369  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:41:19.055039  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:42:19.307249  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:43:28.319819  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:23:11.879478  [**] [1:19439:10] SQL 1 = 1 - possible sql injection attempt [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:52905 -> 192.168.0.143:8000
+10/06-16:44:27.078613  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:44:27.180511  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:29:17.504845  [**] [1:16431:6] SQL generic sql with comments injection attempt - GET parameter [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 192.168.0.155:56849 -> 192.168.0.143:8000
+10/06-16:45:33.576199  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+10/06-16:46:39.493962  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+10/06-16:47:42.723304  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ffb3:63bd
+
+
+^^^ OpenVAS scan 10/06-16:48:46.160335  [**] [1:464:0] ICMP Dropped [**] [Priority: 0] {IPV6-ICMP} fe80::3e89:94ff:fe35:71e1 -> ff02::1:ff54:bfb2
+finished^^^^[[D^[[D^[[D
+^^^ openvas finished ^^^

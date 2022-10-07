@@ -1,0 +1,391 @@
+16809 || MALWARE-CNC Win.Trojan.FraudPack variant outbound connection || url,snort.org/rule_docs/1-16809
+16810 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16810
+16811 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16811
+16812 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16812
+16813 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16813
+16814 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16814
+16815 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16815
+16816 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16816
+16817 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16817
+16818 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16818
+16819 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16819
+16820 || MALWARE-CNC Win.Trojan.Kryptik variant outbound connection || url,snort.org/rule_docs/1-16820
+16821 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16821
+16822 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16822
+16823 || MALWARE-CNC Win.Trojan.FlyStudio known command and control channel traffic || url,snort.org/rule_docs/1-16823
+16824 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16824
+16825 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16825
+16826 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16826
+16827 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16827
+16828 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16828
+16829 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16829
+16830 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16830
+16831 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16831
+16832 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16832
+16833 || MALWARE-CNC known command and control channel traffic || url,snort.org/rule_docs/1-16833
+16834 || DELETED BLACKLIST DNS request for known malware domain qd.netkill.com.cn - Trojan-Downloader.Win32.Adload.rzx || url,snort.org/rule_docs/1-16834
+16835 || DELETED BLACKLIST DNS request for known malware domain exe.146843.com - Trojan.Win32.Opeg.a || url,snort.org/rule_docs/1-16835
+16836 || DELETED BLACKLIST DNS request for known malware domain ra03.e5732.com - Trojan-Clicker.Win32.Small.afg || url,snort.org/rule_docs/1-16836
+16837 || DELETED BLACKLIST DNS request for known malware domain dangercheats.com.br - Trojan.Win32.Refroso.arnq || url,snort.org/rule_docs/1-16837
+16838 || DELETED BLACKLIST DNS request for known malware domain xlm.ppvsr.com - Trojan-GameThief.Win32.OnLineGames.wwcf || url,snort.org/rule_docs/1-16838
+16839 || DELETED BLACKLIST DNS request for known malware domain sh16.e8753.com - Trojan.Win32.Scar.ccqb || url,snort.org/rule_docs/1-16839
+16840 || DELETED BLACKLIST DNS request for known malware domain rx11.e6532.com - Trojan.Win32.Opeg.a || url,snort.org/rule_docs/1-16840
+16841 || DELETED BLACKLIST DNS request for known malware domain podgorz.org - Trojan-Spy.Win32.Zbot.gen || url,snort.org/rule_docs/1-16841
+16842 || DELETED BLACKLIST DNS request for known malware domain sp19.e4578.com - Trojan-Downloader.Win32.Genome.njz || url,snort.org/rule_docs/1-16842
+16843 || DELETED BLACKLIST DNS request for known malware domain 1.7zsm.com - Trojan-Downloader.Win32.Agent.dtuo || url,snort.org/rule_docs/1-16843
+16844 || DELETED BLACKLIST DNS request for known malware domain rm08.e4562.com - Trojan-Downloader.Win32.Agent.dngx || url,snort.org/rule_docs/1-16844
+16845 || DELETED BLACKLIST DNS request for known malware domain rc04.e6532.com - Trojan-Downloader.Win32.Genome.awld || url,snort.org/rule_docs/1-16845
+16846 || DELETED BLACKLIST DNS request for known malware domain bedayton.com - Trojan-Downloader.Win32.Agent.dlhe || url,snort.org/rule_docs/1-16846
+16847 || DELETED BLACKLIST DNS request for known malware domain rz12.e6805.com - Trojan-Downloader.Win32.Genome.awld || url,snort.org/rule_docs/1-16847
+16848 || DELETED BLACKLIST DNS request for known malware domain in.chinaitlm.cn - Trojan.VBS.HideIcon.d || url,labs.snort.org/docs/16848.html
+16849 || DELETED BLACKLIST DNS request for known malware domain re05.e6532.com - Trojan-Downloader.Win32.Genome.awld || url,snort.org/rule_docs/1-16849
+16850 || DELETED BLACKLIST DNS request for known malware domain kldmten.net - Trojan-Spy.Win32.Zbot.akra || url,snort.org/rule_docs/1-16850
+16851 || DELETED BLACKLIST DNS request for known malware domain forelc.cc - Trojan-Ransom.Win32.XBlocker.ahe || url,snort.org/rule_docs/1-16851
+16852 || DELETED BLACKLIST DNS request for known malware domain v.yao63.com - Trojan-Downloader.Win32.Agent.dqns || url,snort.org/rule_docs/1-16852
+16853 || DELETED BLACKLIST DNS request for known malware domain vh26.e4578.com - Trojan.Win32.Opeg.a || url,snort.org/rule_docs/1-16853
+16854 || DELETED BLACKLIST DNS request for known malware domain up1.give2sms.com - Trojan-Downloader.Win32.Genome.est || url,snort.org/rule_docs/1-16854
+16855 || DELETED BLACKLIST DNS request for known malware domain d.123kuaihuo.com - Trojan.Win32.Scar.clbx || url,snort.org/rule_docs/1-16855
+16856 || DELETED BLACKLIST DNS request for known malware domain andy.cd - Backdoor.Win32.Agent.auto || url,snort.org/rule_docs/1-16856
+16857 || DELETED BLACKLIST DNS request for known malware domain site.mynet.com - Trojan.Win32.Buzus.dxsr || url,labs.snort.org/docs/16857.html
+16858 || DELETED BLACKLIST DNS request for known malware domain charter-x.biz - Packed.Win32.Krap.ae || url,snort.org/rule_docs/1-16858
+16859 || DELETED BLACKLIST DNS request for known malware domain gerherber.com - Trojan-Spy.Win32.Zbot.akdw || url,snort.org/rule_docs/1-16859
+16860 || DELETED BLACKLIST DNS request for known malware domain urodinam.net - Trojan.Win32.TDSS.azsj || url,snort.org/rule_docs/1-16860
+16861 || DELETED BLACKLIST DNS request for known malware domain gite-eguisheim.com - Trojan-Downloader.Win32.Piker.clp || url,snort.org/rule_docs/1-16861
+16862 || DELETED BLACKLIST DNS request for known malware domain phaizeipeu.ru - Packed.Win32.Krap.gx || url,snort.org/rule_docs/1-16862
+16863 || DELETED BLACKLIST DNS request for known malware domain teendx.com - Trojan-Spy.Win32.Zbot.gen || url,snort.org/rule_docs/1-16863
+16864 || DELETED BLACKLIST DNS request for known malware domain taiping2033.2288.org - Trojan-Downloader.Win32.Selvice.afy || url,snort.org/rule_docs/1-16864
+16865 || DELETED BLACKLIST DNS request for known malware domain cnfg.maxsitesrevenues.net - Trojan.Win32.BHO.afke || url,snort.org/rule_docs/1-16865
+16866 || DELETED BLACKLIST DNS request for known malware domain members.multimania.co.uk - Trojan.Win32.Inject.ahqv || url,labs.snort.org/docs/16866.html
+16867 || DELETED BLACKLIST DNS request for known malware domain down.toopc.com - Trojan-Dropper.Win32.Clons.hai || url,labs.snort.org/docs/16867.html
+16868 || DELETED BLACKLIST DNS request for known malware domain hostshack.net - Trojan.Win32.Buzus.empl || url,snort.org/rule_docs/1-16868
+16869 || DELETED BLACKLIST DNS request for known malware domain tt.vv49.com - Trojan-GameThief.Win32.OnLineGames.bnkb || url,snort.org/rule_docs/1-16869
+16870 || DELETED BLACKLIST DNS request for known malware domain search.sidegreen.com - Backdoor.Win32.Agent.arqi || url,snort.org/rule_docs/1-16870
+16871 || DELETED BLACKLIST DNS request for known malware domain parfaitpournous.com - Trojan-Spy.Win32.Zbot.gen || url,snort.org/rule_docs/1-16871
+16872 || DELETED BLACKLIST DNS request for known malware domain postmetoday.ru - Packed.Win32.Katusha.j || url,snort.org/rule_docs/1-16872
+16873 || DELETED BLACKLIST DNS request for known malware domain youword.cn - Trojan.Win32.Scar.bvgu || url,snort.org/rule_docs/1-16873
+16874 || DELETED BLACKLIST DNS request for known malware domain ophaeghaev.ru - Trojan-Spy.Win32.Zbot.akmi || url,snort.org/rule_docs/1-16874
+16875 || DELETED BLACKLIST DNS request for known malware domain up1.free-sms.co.kr - Trojan.Win32.Vilsel.akp || url,snort.org/rule_docs/1-16875
+16876 || DELETED BLACKLIST DNS request for known malware domain c.softdowns.info - Trojan.BAT.Agent.yn || url,snort.org/rule_docs/1-16876
+16877 || DELETED BLACKLIST DNS request for known malware domain ddkom.biz - Trojan.Win32.Scar.ckhr || url,snort.org/rule_docs/1-16877
+16878 || DELETED BLACKLIST DNS request for known malware domain vopret.ru - Trojan.Win32.FraudPack.axwn || url,snort.org/rule_docs/1-16878
+16879 || DELETED BLACKLIST DNS request for known malware domain dnfpomo.dnfranran.com - Trojan-GameThief.Win32.OnLineGames.bnkx || url,snort.org/rule_docs/1-16879
+16880 || DELETED BLACKLIST DNS request for known malware domain dnfuu.3322.org - Trojan-Downloader.Win32.Genome.asrx || url,labs.snort.org/docs/16880.html
+16881 || DELETED BLACKLIST DNS request for known malware domain sex-gifts.ru - Trojan-Spy.Win32.Zbot.gen || url,snort.org/rule_docs/1-16881
+16882 || DELETED BLACKLIST DNS request for known malware domain 111.168lala.com - Backdoor.Win32.Popwin.cyn || url,snort.org/rule_docs/1-16882
+16883 || DELETED BLACKLIST DNS request for known malware domain mcafee-registry.ru - Trojan-Spy.Win32.Zbot.akgb || url,snort.org/rule_docs/1-16883
+16884 || DELETED BLACKLIST DNS request for known malware domain bits4ever.ru - Trojan-Spy.Win32.Zbot.aknt || url,snort.org/rule_docs/1-16884
+16885 || DELETED BLACKLIST DNS request for known malware domain monicaecarlos.com - Trojan-Downloader.Win32.Genome.awxv || url,snort.org/rule_docs/1-16885
+16886 || DELETED BLACKLIST DNS request for known malware domain d.trymedia.com - Trojan-Dropper.Win32.Delf.fkk || url,labs.snort.org/docs/16886.html
+16887 || DELETED BLACKLIST DNS request for known malware domain hesneclimi.ru - Packed.Win32.Krap.ae || url,snort.org/rule_docs/1-16887
+16888 || DELETED BLACKLIST DNS request for known malware domain dbtte.com - Trojan-Banker.Win32.Banz.crk || url,snort.org/rule_docs/1-16888
+16889 || DELETED BLACKLIST DNS request for known malware domain h1.ripway.com - Trojan.Win32.Refroso.bcdq || url,labs.snort.org/docs/16889.html
+16890 || DELETED BLACKLIST DNS request for known malware domain in6cs.com - Trojan.Win32.Tdss.beea || url,snort.org/rule_docs/1-16890
+16891 || DELETED BLACKLIST DNS request for known malware domain solo1928.ru - Trojan-Spy.Win32.Zbot.gen || url,snort.org/rule_docs/1-16891
+16892 || DELETED BLACKLIST DNS request for known malware domain fg545633.host.zgridc.com - Trojan.Win32.Pincav.abub || url,snort.org/rule_docs/1-16892
+16893 || DELETED BLACKLIST DNS request for known malware domain primusdns.ru - Backdoor.Win32.Havar.eh || url,snort.org/rule_docs/1-16893
+16894 || DELETED BLACKLIST DNS request for known malware domain eq.pccppc.com - Trojan-Downloader.Win32.Pher.fkl || url,labs.snort.org/docs/16894.html
+16895 || DELETED BLACKLIST DNS request for known malware domain alodh.in - Backdoor.Win32.Delf.vde || url,snort.org/rule_docs/1-16895
+16896 || DELETED BLACKLIST DNS request for known malware domain reward.pnshop.co.kr - Backdoor.Win32.Agent.ahra || url,snort.org/rule_docs/1-16896
+16897 || DELETED BLACKLIST DNS request for known malware domain sympathy.hdnews.net - Trojan-Spy.Win32.Zbot.gen || url,labs.snort.org/docs/16897.html
+16898 || DELETED BLACKLIST DNS request for known malware domain sx21.e4578.com - Trojan.Win32.Scar.ccqb || url,snort.org/rule_docs/1-16898
+16899 || DELETED BLACKLIST DNS request for known malware domain downloadering.9966.org - Trojan.Win32.Vilsel.adxv || url,labs.snort.org/docs/16899.html
+16900 || DELETED BLACKLIST DNS request for known malware domain reportes201.com - Trojan-Downloader.Win32.Genome.ashe || url,snort.org/rule_docs/1-16900
+16901 || DELETED BLACKLIST DNS request for known malware domain local.1140.co.kr - Trojan-Downloader.Win32.Genome.aobm || url,snort.org/rule_docs/1-16901
+16902 || DELETED BLACKLIST DNS request for known malware domain promojoy.net - Packed.Win32.Krap.gx || url,snort.org/rule_docs/1-16902
+16903 || DELETED BLACKLIST DNS request for known malware domain gpwg.ws - Worm.Win32.AutoRun.bjca || url,snort.org/rule_docs/1-16903
+16904 || DELETED BLACKLIST DNS request for known malware domain xoomer.alice.it - Trojan-Downloader.Win32.Banload.kdu || url,labs.snort.org/docs/16904.html
+16905 || DELETED BLACKLIST DNS request for known malware domain xoomer.virgilio.it - Backdoor.Win32.Clar.d || url,labs.snort.org/docs/16905.html
+16906 || DELETED BLACKLIST DNS request for known malware domain down.p2pplay.com - Trojan-GameThief.Win32.OnLineGames.wgkv || url,snort.org/rule_docs/1-16906
+16907 || DELETED BLACKLIST DNS request for known malware domain livetrust.info - Trojan-Spy.Win32.Zbot.akku || url,snort.org/rule_docs/1-16907
+16908 || DELETED BLACKLIST DNS request for known malware domain ootaivilei.ru - Trojan-Spy.Win32.Zbot.akme || url,snort.org/rule_docs/1-16908
+16909 || DELETED BLACKLIST DNS request for known malware domain babah20122012.com - Trojan-Spy.Win32.Zbot.akbb || url,snort.org/rule_docs/1-16909
+16910 || DELETED BLACKLIST DNS request for known malware domain pattern - 0-0-0-0-0-0-0.info || url,snort.org/rule_docs/1-16910
+16911 || MALWARE-CNC URI request for known malicious URI - ucsp0416.exe?t= || url,snort.org/rule_docs/1-16911
+16912 || MALWARE-CNC URI request for known malicious URI - net/cfg2.bin || url,snort.org/rule_docs/1-16912
+16913 || MALWARE-CNC URI request for known malicious URI - count_log/log/boot.php?p= || url,snort.org/rule_docs/1-16913
+16914 || MALWARE-CNC URI request for known malicious URI - .bin?ucsp || url,snort.org/rule_docs/1-16914
+16915 || MALWARE-CNC URI request for known malicious URI - /MNG/Download/?File=AZF || url,snort.org/rule_docs/1-16915
+16916 || MALWARE-CNC URI request for known malicious URI - /jarun/jezerce || url,snort.org/rule_docs/1-16916
+16917 || MALWARE-CNC URI request for known malicious URI - /ekaterina/velika || url,snort.org/rule_docs/1-16917
+16918 || MALWARE-CNC URI request for known malicious URI - /ultimate/fight || url,snort.org/rule_docs/1-16918
+16919 || MALWARE-CNC URI request for known malicious URI - /tmp/pm.exe?t= || url,snort.org/rule_docs/1-16919
+16920 || MALWARE-CNC URI request for known malicious URI - /DownLoadFile/BaePo/ver || url,snort.org/rule_docs/1-16920
+16921 || MALWARE-CNC URI request for known malicious URI - /s1/launcher/update/Update/data/ || url,snort.org/rule_docs/1-16921
+16922 || MALWARE-CNC URI request for known malicious URI - /cgi-bin/rd.cgi?f=/vercfg.dat?AgentID= || url,snort.org/rule_docs/1-16922
+16923 || MALWARE-CNC URI request for known malicious URI - /search.php?username=coolweb07&keywords= || url,snort.org/rule_docs/1-16923
+16924 || MALWARE-CNC URI request for known malicious URI - /inst.php?fff= || url,snort.org/rule_docs/1-16924
+16925 || MALWARE-CNC URI request for known malicious URI - /message.php?subid= || url,snort.org/rule_docs/1-16925
+16926 || MALWARE-CNC URI request for known malicious URI - strMode=setup&strID=pcvaccine&strPC= || url,snort.org/rule_docs/1-16926
+16927 || MALWARE-CNC URI request for known malicious URI - MGWEB.php?c=TestUrl || url,snort.org/rule_docs/1-16927
+16928 || MALWARE-CNC URI request for known malicious URI - /stat.html?0dPg0uXTraCSqrOdlrKpmpyorePbz || url,snort.org/rule_docs/1-16928
+16929 || MALWARE-CNC URI request for known malicious URI - gate.php?guid= || url,snort.org/rule_docs/1-16929
+16930 || MALWARE-CNC URI request for known malicious URI - count.asp?mac= || url,snort.org/rule_docs/1-16930
+16931 || MALWARE-CNC URI request for known malicious URI - feedbigfoot.php?m= || url,snort.org/rule_docs/1-16931
+16932 || MALWARE-CNC URI request for known malicious URI - /qqnongchang/qqkj. || url,snort.org/rule_docs/1-16932
+16933 || MALWARE-CNC URI request for known malicious URI - /root/9 frt.rar || url,snort.org/rule_docs/1-16933
+17818 || DELETED BLACKLIST DNS request for known malware domain ktr.t134.net || url,labs.snort.org/docs/17818.html
+17819 || DELETED BLACKLIST DNS request for known malware domain motuh.com || url,snort.org/rule_docs/1-17819
+17820 || DELETED BLACKLIST DNS request for known malware domain myanimalclips.com || url,labs.snort.org/docs/17820.html
+17821 || DELETED BLACKLIST DNS request for known malware domain ketsymbol.com || url,snort.org/rule_docs/1-17821
+17822 || DELETED BLACKLIST DNS request for known malware domain ics.hotbar.com || url,labs.snort.org/docs/17822.html
+17823 || DELETED BLACKLIST DNS request for known malware domain www.myroitracking.com || url,labs.snort.org/docs/17823.html
+17824 || DELETED BLACKLIST DNS request for known malware domain teenxmovs.net || url,snort.org/rule_docs/1-17824
+17825 || DELETED BLACKLIST DNS request for known malware domain px.smowtion.com || url,labs.snort.org/docs/17825.html
+17826 || DELETED BLACKLIST DNS request for known malware domain cheaps1.info || url,snort.org/rule_docs/1-17826
+17827 || DELETED BLACKLIST DNS request for known malware domain sexmoviesland.net || url,snort.org/rule_docs/1-17827
+17828 || DELETED BLACKLIST DNS request for known malware domain 67.201.36.16 || url,snort.org/rule_docs/1-17828
+17829 || DELETED BLACKLIST DNS request for known malware domain c7.zxxds.net || url,labs.snort.org/docs/17829.html
+17830 || DELETED BLACKLIST DNS request for known malware domain dickvsclit.net || url,snort.org/rule_docs/1-17830
+17831 || DELETED BLACKLIST DNS request for known malware domain edrichfinearts.com || url,snort.org/rule_docs/1-17831
+17832 || DELETED BLACKLIST DNS request for known malware domain img100.xvideos.com || url,labs.snort.org/docs/17832.html
+17833 || DELETED BLACKLIST DNS request for known malware domain www.dsnextgen.com || url,labs.snort.org/docs/17833.html
+17834 || DELETED BLACKLIST DNS request for known malware domain 343.boolans.com || url,snort.org/rule_docs/1-17834
+17835 || DELETED BLACKLIST DNS request for known malware domain xpresdnet.com || url,snort.org/rule_docs/1-17835
+17836 || DELETED BLACKLIST DNS request for known malware domain gbsup.com || url,snort.org/rule_docs/1-17836
+17837 || DELETED BLACKLIST DNS request for known malware domain xxsmovies.com || url,snort.org/rule_docs/1-17837
+17838 || DELETED BLACKLIST DNS request for known malware domain vc.iwriteweb.com || url,snort.org/rule_docs/1-17838
+17839 || DELETED BLACKLIST DNS request for known malware domain js.222233.com || url,snort.org/rule_docs/1-17839
+17840 || DELETED BLACKLIST DNS request for known malware domain www.grannyplanet.com || url,snort.org/rule_docs/1-17840
+17841 || DELETED BLACKLIST DNS request for known malware domain coop.crwdcntrl.net || url,labs.snort.org/docs/17841.html
+17842 || DELETED BLACKLIST DNS request for known malware domain extrahotx.net || url,snort.org/rule_docs/1-17842
+17843 || DELETED BLACKLIST DNS request for known malware domain extralargevideos.com || url,snort.org/rule_docs/1-17843
+17844 || DELETED BLACKLIST DNS request for known malware domain www.derquda.com || url,snort.org/rule_docs/1-17844
+17845 || DELETED BLACKLIST DNS request for known malware domain aahydrogen.com || url,snort.org/rule_docs/1-17845
+17846 || DELETED BLACKLIST DNS request for known malware domain trumpetlicks.com || url,snort.org/rule_docs/1-17846
+17847 || DELETED BLACKLIST DNS request for known malware domain mskla.com || url,snort.org/rule_docs/1-17847
+17848 || DELETED BLACKLIST DNS request for known malware domain play.unionsky.cn || url,labs.snort.org/docs/17848.html
+17849 || DELETED BLACKLIST DNS request for known malware domain fuckersucker.com || url,snort.org/rule_docs/1-17849
+17850 || DELETED BLACKLIST DNS request for known malware domain pornfucklist.com || url,snort.org/rule_docs/1-17850
+17851 || DELETED BLACKLIST DNS request for known malware domain game.685faiudeme.com || url,snort.org/rule_docs/1-17851
+17852 || DELETED BLACKLIST DNS request for known malware domain 447.cc || url,labs.snort.org/docs/17852.html
+17853 || DELETED BLACKLIST DNS request for known malware domain dommonview.com || url,snort.org/rule_docs/1-17853
+17854 || DELETED BLACKLIST DNS request for known malware domain www.lamiaexragazza.com || url,snort.org/rule_docs/1-17854
+17855 || DELETED BLACKLIST DNS request for known malware domain acofinder.com || url,snort.org/rule_docs/1-17855
+17856 || DELETED BLACKLIST DNS request for known malware domain fuckfuckvids.com || url,snort.org/rule_docs/1-17856
+17857 || DELETED BLACKLIST DNS request for known malware domain www.cnhack.cn || url,snort.org/rule_docs/1-17857
+17858 || DELETED BLACKLIST DNS request for known malware domain kingsizematures.com || url,snort.org/rule_docs/1-17858
+17859 || DELETED BLACKLIST DNS request for known malware domain promotds.com || url,snort.org/rule_docs/1-17859
+17860 || DELETED BLACKLIST DNS request for known malware domain mejac.com || url,snort.org/rule_docs/1-17860
+17861 || DELETED BLACKLIST DNS request for known malware domain zq2.9wee.com || url,labs.snort.org/docs/17861.html
+17862 || DELETED BLACKLIST DNS request for known malware domain 122.770304123.cn || url,labs.snort.org/docs/17862.html
+17863 || DELETED BLACKLIST DNS request for known malware domain rpt2.21civ.com || url,snort.org/rule_docs/1-17863
+17864 || DELETED BLACKLIST DNS request for known malware domain tubexxxmatures.com || url,snort.org/rule_docs/1-17864
+17865 || DELETED BLACKLIST DNS request for known malware domain 110.770304123.cn || url,labs.snort.org/docs/17865.html
+17866 || DELETED BLACKLIST DNS request for known malware domain aebankonline.com || url,snort.org/rule_docs/1-17866
+17867 || DELETED BLACKLIST DNS request for known malware domain utm.trk.myfuncards.com || url,labs.snort.org/docs/17867.html
+17868 || DELETED BLACKLIST DNS request for known malware domain a.qq2233.com || url,labs.snort.org/docs/17868.html
+17869 || DELETED BLACKLIST DNS request for known malware domain px.mgplatform.com || url,labs.snort.org/docs/17869.html
+17870 || DELETED BLACKLIST DNS request for known malware domain trojan8.com || url,snort.org/rule_docs/1-17870
+17871 || DELETED BLACKLIST DNS request for known malware domain brutalxvideos.com || url,snort.org/rule_docs/1-17871
+17872 || DELETED BLACKLIST DNS request for known malware domain www3.sexown.com || url,snort.org/rule_docs/1-17872
+17873 || DELETED BLACKLIST DNS request for known malware domain mummimpegs.com || url,snort.org/rule_docs/1-17873
+17874 || DELETED BLACKLIST DNS request for known malware domain f19dd4abb8b8bdf2.cn || url,snort.org/rule_docs/1-17874
+17875 || DELETED BLACKLIST DNS request for known malware domain www.very-young-boys.com || url,snort.org/rule_docs/1-17875
+17876 || DELETED BLACKLIST DNS request for known malware domain 91629.com || url,snort.org/rule_docs/1-17876
+17877 || DELETED BLACKLIST DNS request for known malware domain animal36.com || url,labs.snort.org/docs/17877.html
+17878 || DELETED BLACKLIST DNS request for known malware domain ayb.host127-0-0-1.com || url,snort.org/rule_docs/1-17878
+17879 || DELETED BLACKLIST DNS request for known malware domain cfg.353wanwan.com || url,snort.org/rule_docs/1-17879
+17880 || DELETED BLACKLIST DNS request for known malware domain www.027dj.com || url,labs.snort.org/docs/17880.html
+17881 || DELETED BLACKLIST DNS request for known malware domain fucktosky.com || url,snort.org/rule_docs/1-17881
+17882 || DELETED BLACKLIST DNS request for known malware domain procca.com || url,snort.org/rule_docs/1-17882
+17883 || DELETED BLACKLIST DNS request for known malware domain autouploaders.net || url,snort.org/rule_docs/1-17883
+17884 || DELETED BLACKLIST DNS request for known malware domain gimmemyporn.com || url,snort.org/rule_docs/1-17884
+17885 || DELETED BLACKLIST DNS request for known malware domain waytoall.com || url,snort.org/rule_docs/1-17885
+17886 || DELETED BLACKLIST DNS request for known malware domain www.spamature.com || url,snort.org/rule_docs/1-17886
+17887 || DELETED BLACKLIST DNS request for known malware domain info.collectionerrorreport.com || url,snort.org/rule_docs/1-17887
+17888 || DELETED BLACKLIST DNS request for known malware domain bn.xp1.ru4.com || url,labs.snort.org/docs/17888.html
+17889 || DELETED BLACKLIST DNS request for known malware domain www.ajie520.com || url,snort.org/rule_docs/1-17889
+17890 || DELETED BLACKLIST DNS request for known malware domain 114search1.118114.cn || url,labs.snort.org/docs/17890.html
+17891 || DELETED BLACKLIST DNS request for known malware domain bestkind.ru || url,snort.org/rule_docs/1-17891
+17892 || DELETED BLACKLIST DNS request for known malware domain clickpotato.tv || url,labs.snort.org/docs/17892.html
+17893 || DELETED BLACKLIST DNS request for known malware domain www.zxc0001.com || url,snort.org/rule_docs/1-17893
+17894 || DELETED BLACKLIST DNS request for known malware domain streq.cn || url,snort.org/rule_docs/1-17894
+17895 || DELETED BLACKLIST DNS request for known malware domain pyow.prixi-soft.ir || url,snort.org/rule_docs/1-17895
+17896 || DELETED BLACKLIST DNS request for known malware domain 113552url.cptgt.com || url,labs.snort.org/docs/17896.html
+17897 || DELETED BLACKLIST DNS request for known malware domain www.moneytw8.com || url,snort.org/rule_docs/1-17897
+17898 || MALWARE-CNC URI request for known malicious URI - /get2.php?c=VTOXUGUI&d= || url,snort.org/rule_docs/1-17898
+17899 || MALWARE-CNC URI request for known malicious URI - /reques0.asp?kind=006&mac= || url,snort.org/rule_docs/1-17899
+17900 || MALWARE-CNC URI request for known malicious URI - /basic/cn3c2/c.*dll || url,snort.org/rule_docs/1-17900
+17901 || MALWARE-CNC URI request for known malicious URI - /mybackup21.rar || url,snort.org/rule_docs/1-17901
+17902 || MALWARE-CNC URI request for known malicious URI - /?getexe=loader.exe || url,snort.org/rule_docs/1-17902
+17903 || MALWARE-CNC URI request for known malicious URI - stid= || url,snort.org/rule_docs/1-17903
+17904 || DELETED MALWARE-CNC URI request for known malicious URI - /tongji.js || url,snort.org/rule_docs/1-17904
+17905 || MALWARE-CNC URI request for known malicious URI - 1de49069b6044785e9dfcd4c035cfd0c.php || url,snort.org/rule_docs/1-17905
+17906 || MALWARE-CNC URI request for known malicious URI - 2x/.*php || url,snort.org/rule_docs/1-17906
+17907 || MALWARE-CNC URI request for known malicious URI - /MNG/Download/?File=AZF DATADIR Download || url,snort.org/rule_docs/1-17907
+17908 || MALWARE-CNC URI request for known malicious URI - /images/crypt_22.exe || url,snort.org/rule_docs/1-17908
+17909 || MALWARE-CNC URI request for known malicious URI - /images/css/1.exe || url,snort.org/rule_docs/1-17909
+17910 || MALWARE-CNC URI request for known malicious URI - /7xdown.exe || url,snort.org/rule_docs/1-17910
+17911 || MALWARE-CNC URI request for known malicious URI - /winhelper.exe || url,snort.org/rule_docs/1-17911
+17912 || MALWARE-CNC URI request for known malicious URI - /upopwin/count.asp?mac= || url,snort.org/rule_docs/1-17912
+17913 || MALWARE-CNC URI request for known malicious URI - /ok.exe || url,snort.org/rule_docs/1-17913
+17914 || MALWARE-CNC URI request for known malicious URI - /LjBin/Bin.Dll || url,snort.org/rule_docs/1-17914
+17915 || MALWARE-CNC URI request for known malicious URI - /1001ns/cfg3n.bin || url,snort.org/rule_docs/1-17915
+17916 || MALWARE-CNC URI request for known malicious URI - /dh/stats.bin || url,snort.org/rule_docs/1-17916
+17917 || MALWARE-CNC URI request for known malicious URI - /zeus/config.bin || url,snort.org/rule_docs/1-17917
+18132 || INDICATOR-OBFUSCATION malware-associated JavaScript obfuscation function || url,attack.mitre.org/techniques/T1027 || url,attack.mitre.org/techniques/T1140 || url,snort.org/rule_docs/1-18132
+18336 || MALWARE-CNC User-Agent known malicious user-agent string gbot/2.3 || url,snort.org/rule_docs/1-18336
+18337 || MALWARE-CNC User-Agent known malicious user-agent string iamx/3.11 || url,snort.org/rule_docs/1-18337
+18338 || MALWARE-CNC User-Agent known malicious user-agent string NSISDL/1.2 || url,snort.org/rule_docs/1-18338
+18339 || DELETED BLACKLIST USER-AGENT known malicious user-agent string NSIS_Inetc || url,labs.snort.org/docs/18339.html
+18340 || MALWARE-CNC User-Agent known malicious user-agent string ClickAdsByIE 0.7.5 || url,snort.org/rule_docs/1-18340
+18341 || MALWARE-CNC User-Agent known malicious user-agent string UtilMind HTTPGet || url,snort.org/rule_docs/1-18341
+18342 || MALWARE-CNC User-Agent known malicious user-agent string NSIS_DOWNLOAD || url,snort.org/rule_docs/1-18342
+18343 || MALWARE-CNC User-Agent known malicious user-agent string WSEnrichment || url,snort.org/rule_docs/1-18343
+18344 || DELETED BLACKLIST USER-AGENT known malicious user-agent string FSD || url,labs.snort.org/docs/18344.html
+18345 || MALWARE-CNC User-Agent known malicious user-agent string Macrovision_DM_2.4.15 || url,snort.org/rule_docs/1-18345
+18346 || MALWARE-CNC User-Agent known malicious user-agent string GPRecover || url,snort.org/rule_docs/1-18346
+18347 || MALWARE-CNC User-Agent known malicious user-agent string AutoIt || url,snort.org/rule_docs/1-18347
+18348 || MALWARE-CNC User-Agent known malicious user-agent string Opera/9.80 Pesto/2.2.15 || url,snort.org/rule_docs/1-18348
+18349 || MALWARE-CNC User-Agent known malicious user-agent string Flipopia || url,snort.org/rule_docs/1-18349
+18350 || MALWARE-CNC User-Agent known malicious user-agent string GabPath || url,snort.org/rule_docs/1-18350
+18351 || MALWARE-CNC User-Agent known malicious user-agent string GPUpdater || url,snort.org/rule_docs/1-18351
+18352 || MALWARE-CNC User-Agent known malicious user-agent string PinballCorp-BSAI/VER_STR_COMMA || url,snort.org/rule_docs/1-18352
+18353 || MALWARE-CNC User-Agent request for known PUA user agent - SelectRebates || url,snort.org/rule_docs/1-18353
+18354 || MALWARE-CNC User-Agent known malicious user-agent string opera/8.11 || url,snort.org/rule_docs/1-18354
+18355 || MALWARE-CNC User-Agent known malicious user-agent string Se2011 || url,snort.org/rule_docs/1-18355
+18356 || MALWARE-CNC User-Agent known malicious user-agent string random || url,snort.org/rule_docs/1-18356
+18357 || MALWARE-CNC User-Agent known malicious user-agent string Setup Factory || url,snort.org/rule_docs/1-18357
+18358 || MALWARE-CNC User-Agent known malicious user-agent string NSIS_INETLOAD || url,snort.org/rule_docs/1-18358
+18359 || MALWARE-CNC User-Agent known malicious user-agent string Shareaza || url,snort.org/rule_docs/1-18359
+18360 || MALWARE-CNC User-Agent known malicious user-agent string Oncues || url,snort.org/rule_docs/1-18360
+18361 || MALWARE-CNC User-Agent known malicious user-agent string Downloader1.1 || url,snort.org/rule_docs/1-18361
+18362 || MALWARE-CNC User-Agent known malicious user-agent string Search Toolbar 1.1 || url,snort.org/rule_docs/1-18362
+18363 || MALWARE-CNC User-Agent known malicious user-agent string GPRecover || url,snort.org/rule_docs/1-18363
+18364 || MALWARE-CNC User-Agent known malicious user-agent string msndown || url,snort.org/rule_docs/1-18364
+18365 || MALWARE-CNC User-Agent known malicious user-agent string Agentcc || url,snort.org/rule_docs/1-18365
+18366 || MALWARE-CNC User-Agent known malicious user-agent string OCInstaller || url,snort.org/rule_docs/1-18366
+18367 || MALWARE-CNC User-Agent known malicious user-agent string FPRecover || url,snort.org/rule_docs/1-18367
+18368 || MALWARE-CNC User-Agent known malicious user-agent string Our_Agent || url,snort.org/rule_docs/1-18368
+18369 || MALWARE-CNC User-Agent known malicious user-agent string iexp-get || url,snort.org/rule_docs/1-18369
+18370 || MALWARE-CNC User-Agent known malicious user-agent string Mozilla Windows MSIE || url,snort.org/rule_docs/1-18370
+18371 || MALWARE-CNC User-Agent known malicious user-agent string QvodDown || url,snort.org/rule_docs/1-18371
+18372 || DELETED BLACKLIST USER-AGENT known malicious user-agent string contype || url,labs.snort.org/docs/18372.html
+18373 || MALWARE-CNC User-Agent known malicious user-agent string Installer || url,snort.org/rule_docs/1-18373
+18374 || MALWARE-CNC User-Agent known malicious user-agent string SurfBear || url,snort.org/rule_docs/1-18374
+18375 || MALWARE-CNC User-Agent known malicious user-agent string HTTP Wininet || url,snort.org/rule_docs/1-18375
+18376 || MALWARE-CNC User-Agent known malicious user-agent string Trololo || url,snort.org/rule_docs/1-18376
+18377 || MALWARE-CNC User-Agent known malicious user-agent string malware || url,snort.org/rule_docs/1-18377
+18378 || MALWARE-CNC User-Agent known malicious user-agent string AutoHotkey || url,snort.org/rule_docs/1-18378
+18379 || MALWARE-CNC User-Agent known malicious user-agent string AskInstallChecker || url,snort.org/rule_docs/1-18379
+18380 || MALWARE-CNC User-Agent known malicious user-agent string FPUpdater || url,snort.org/rule_docs/1-18380
+18381 || MALWARE-CNC User-Agent known malicious user-agent string Travel Update || url,snort.org/rule_docs/1-18381
+18382 || MALWARE-CNC User-Agent known malicious user-agent string WMUpdate || url,snort.org/rule_docs/1-18382
+18383 || MALWARE-CNC User-Agent known malicious user-agent string GPInstaller || url,snort.org/rule_docs/1-18383
+18384 || DELETED BLACKLIST USER-AGENT known malicious user-agent string Install Stub || url,labs.snort.org/docs/18384.html
+18385 || MALWARE-CNC User-Agent known malicious user-agent string HTTPCSDCENTER || url,snort.org/rule_docs/1-18385
+18386 || MALWARE-CNC User-Agent known malicious user-agent string AHTTPConnection || url,snort.org/rule_docs/1-18386
+18387 || MALWARE-CNC User-Agent known malicious user-agent string dwplayer || url,snort.org/rule_docs/1-18387
+18388 || MALWARE-CNC User-Agent known malicious user-agent string RookIE/1.0 || url,snort.org/rule_docs/1-18388
+18389 || MALWARE-CNC User-Agent known malicious user-agent string 3653Client || url,snort.org/rule_docs/1-18389
+18390 || MALWARE-CNC User-Agent known malicious user-agent string Delphi 5.x || url,snort.org/rule_docs/1-18390
+18391 || MALWARE-CNC User-Agent known malicious user-agent string MyLove || url,snort.org/rule_docs/1-18391
+18392 || MALWARE-CNC User-Agent known malicious user-agent string qixi || url,snort.org/rule_docs/1-18392
+18393 || MALWARE-CNC User-Agent known malicious user-agent string vyre32 || url,snort.org/rule_docs/1-18393
+18394 || MALWARE-CNC User-Agent known malicious user-agent string OCRecover || url,snort.org/rule_docs/1-18394
+18395 || MALWARE-CNC User-Agent known malicious user-agent string Duckling/1.0 || url,snort.org/rule_docs/1-18395
+18492 || DELETED BLACKLIST DNS request for known malware domain ilo.brenz.pl - Win.Trojan.Ramnit || url,snort.org/rule_docs/1-18492
+18773 || DELETED BLACKLIST URI request for known malicious URI - /stat.htm || url,labs.snort.org/iplists/urllist-2011-04-07
+23113 || INDICATOR-OBFUSCATION eval gzinflate base64_decode call - likely malicious || url,attack.mitre.org/techniques/T1027 || url,attack.mitre.org/techniques/T1140 || url,blog.talosintel.com/2012/06/web-shell-poses-as-gif.html || url,snort.org/rule_docs/1-23113
+23114 || INDICATOR-OBFUSCATION GIF header with PHP tags - likely malicious || url,attack.mitre.org/techniques/T1027 || url,attack.mitre.org/techniques/T1140 || url,blog.talosintel.com/2012/06/web-shell-poses-as-gif.html || url,snort.org/rule_docs/1-23114
+23156 || EXPLOIT-KIT Nuclear Pack exploit kit landing page || cve,2006-0003 || cve,2007-5659 || cve,2008-0655 || cve,2008-2992 || cve,2009-0927 || cve,2010-1885 || cve,2011-0559 || cve,2011-2110 || cve,2011-3544 || cve,2012-0188 || cve,2012-0507 || cve,2012-1723 || cve,2012-1889 || cve,2012-4681 || url,blog.eset.com/2012/04/05/blackhole-exploit-kit-plays-with-smart-redirection || url,blog.fox-it.com/2012/03/16/post-mortem-report-on-the-sinowallnu-nl-incident/ || url,snort.org/rule_docs/1-23156
+23157 || EXPLOIT-KIT Nuclear Pack exploit kit binary download || cve,2006-0003 || cve,2007-5659 || cve,2008-0655 || cve,2008-2992 || cve,2009-0927 || cve,2010-1885 || cve,2011-0559 || cve,2011-2110 || cve,2011-3544 || cve,2012-0188 || cve,2012-0507 || cve,2012-1723 || cve,2012-1889 || cve,2012-4681 || url,blog.eset.com/2012/04/05/blackhole-exploit-kit-plays-with-smart-redirection || url,blog.fox-it.com/2012/03/16/post-mortem-report-on-the-sinowallnu-nl-incident/ || url,snort.org/rule_docs/1-23157
+23218 || EXPLOIT-KIT Redkit Repeated Exploit Request Pattern || cve,2012-0188 || cve,2012-0507 || cve,2012-4681 || url,blog.spiderlabs.com/2012/05/a-wild-exploit-kit-appears.html || url,snort.org/rule_docs/1-23218
+23636 || INDICATOR-OBFUSCATION JavaScript built-in function parseInt appears obfuscated - likely packer or encoder || url,attack.mitre.org/techniques/T1027 || url,attack.mitre.org/techniques/T1140 || url,snort.org/rule_docs/1-23636
+23795 || DELETED MALWARE-OTHER function urchin - known malware function name || url,labs.snort.org/docs/23795.txt
+24103 || MALWARE-OTHER HTTP POST request to a JPG file || url,snort.org/rule_docs/1-24103
+24104 || MALWARE-OTHER HTTP POST request to a JPEG file || url,snort.org/rule_docs/1-24104
+24105 || MALWARE-OTHER HTTP POST request to a GIF file || url,snort.org/rule_docs/1-24105
+24106 || MALWARE-OTHER HTTP POST request to a PNG file || url,snort.org/rule_docs/1-24106
+24107 || MALWARE-OTHER HTTP POST request to a BMP file || url,snort.org/rule_docs/1-24107
+24108 || MALWARE-OTHER HTTP POST request to a RAR file || url,snort.org/rule_docs/1-24108
+24109 || MALWARE-OTHER HTTP POST request to a ZIP file || url,snort.org/rule_docs/1-24109
+24110 || MALWARE-OTHER HTTP POST request to an MP3 file || url,snort.org/rule_docs/1-24110
+35316 || MALWARE-CNC User-Agent known malicious user-agent string EI Plugin updater || url,snort.org/rule_docs/1-18338 || url,www.virustotal.com/en/file/9b0f613228ad8b71a1ab44efbf6c0ed5df06cca4988d6fd094a34f867838cc54/analysis/
+41047 || PROTOCOL-SCADA IEC 104 STARTDT ACT || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41048 || PROTOCOL-SCADA IEC 104 STARTDT CON || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41049 || PROTOCOL-SCADA IEC 104 STOPDT ACT || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41050 || PROTOCOL-SCADA IEC 104 STOPDT CON || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41051 || PROTOCOL-SCADA IEC 104 TESTFR ACT || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41052 || PROTOCOL-SCADA IEC 104 TESTFR CON || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41053 || PROTOCOL-SCADA IEC 104 Ack file || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41054 || PROTOCOL-SCADA IEC 104 Double point information || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41055 || PROTOCOL-SCADA IEC 104 End of initialization || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41056 || PROTOCOL-SCADA IEC 104 File ready || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41057 || PROTOCOL-SCADA IEC 104 Integrated totals || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41058 || PROTOCOL-SCADA IEC 104 Interrogation command || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41059 || PROTOCOL-SCADA IEC 104 Last section || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41060 || PROTOCOL-SCADA IEC 104 List directory || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41061 || PROTOCOL-SCADA IEC 104 Measured value || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41062 || PROTOCOL-SCADA IEC 104 Packed start events || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41063 || PROTOCOL-SCADA IEC 104 Parameter value || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41064 || PROTOCOL-SCADA IEC 104 Query Log || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41065 || PROTOCOL-SCADA IEC 104 Read command || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41066 || PROTOCOL-SCADA IEC 104 Regulating step command || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41067 || PROTOCOL-SCADA IEC 104 Rest process command || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41068 || PROTOCOL-SCADA IEC 104 Set point command || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41069 || PROTOCOL-SCADA IEC 104 Single command || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41070 || PROTOCOL-SCADA IEC 104 Single point information || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41071 || PROTOCOL-SCADA IEC 104 Step point information || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41072 || PROTOCOL-SCADA IEC 104 Test command with time tag || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41073 || PROTOCOL-SCADA IEC 104 bitstring of 32 bits || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41074 || PROTOCOL-SCADA IEC 104 clock sync command || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41075 || PROTOCOL-SCADA IEC 104 counter interrogation command || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41076 || PROTOCOL-SCADA IEC 104 double command issued || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41077 || PROTOCOL-SCADA IEC 104 unknown ASDU type detected || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41078 || PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+41079 || PROTOCOL-SCADA IEC 104 traffic to/from EXTERNAL_NET || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52150 || PROTOCOL-SCADA IEC 104 M_SP_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52151 || PROTOCOL-SCADA IEC 104 M_DP_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52152 || PROTOCOL-SCADA IEC 104 M_ST_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52153 || PROTOCOL-SCADA IEC 104 M_BO_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52154 || PROTOCOL-SCADA IEC 104 M_ME_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52155 || PROTOCOL-SCADA IEC 104 M_ME_NB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52156 || PROTOCOL-SCADA IEC 104 M_ME_ND_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52157 || PROTOCOL-SCADA IEC 104 M_DP_TB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52158 || PROTOCOL-SCADA IEC 104 M_ME_NC_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52159 || PROTOCOL-SCADA IEC 104 M_PS_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52160 || PROTOCOL-SCADA IEC 104 M_SP_TB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52161 || PROTOCOL-SCADA IEC 104 M_IT_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52162 || PROTOCOL-SCADA IEC 104 M_ST_TB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52163 || PROTOCOL-SCADA IEC 104 M_ME_TD_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52164 || PROTOCOL-SCADA IEC 104 M_BO_TB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52165 || PROTOCOL-SCADA IEC 104 M_ME_TE_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52166 || PROTOCOL-SCADA IEC 104 M_ME_TF_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52167 || PROTOCOL-SCADA IEC 104 M_IT_TB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52168 || PROTOCOL-SCADA IEC 104 M_EP_TD_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52169 || PROTOCOL-SCADA IEC 104 M_EP_TE_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52170 || PROTOCOL-SCADA IEC 104 M_EP_TF_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52171 || PROTOCOL-SCADA IEC 104 C_SC_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52172 || PROTOCOL-SCADA IEC 104 C_DC_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52173 || PROTOCOL-SCADA IEC 104 C_RC_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52174 || PROTOCOL-SCADA IEC 104 C_SE_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52175 || PROTOCOL-SCADA IEC 104 C_SE_NB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52176 || PROTOCOL-SCADA IEC 104 C_SE_NC_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52177 || PROTOCOL-SCADA IEC 104 C_BO_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52178 || PROTOCOL-SCADA IEC 104 C_SC_TA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52179 || PROTOCOL-SCADA IEC 104 C_DC_TA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52180 || PROTOCOL-SCADA IEC 104 C_RC_TA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52181 || PROTOCOL-SCADA IEC 104 C_SE_TA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52182 || PROTOCOL-SCADA IEC 104 C_SE_TB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52183 || PROTOCOL-SCADA IEC 104 C_SE_TC_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52184 || PROTOCOL-SCADA IEC 104 C_BO_TA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52185 || PROTOCOL-SCADA IEC 104 M_EI_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52186 || PROTOCOL-SCADA IEC 104 C_TS_TA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52187 || PROTOCOL-SCADA IEC 104 P_ME_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52188 || PROTOCOL-SCADA IEC 104 P_ME_NB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52189 || PROTOCOL-SCADA IEC 104 C_CI_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52190 || PROTOCOL-SCADA IEC 104 C_RD_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52191 || PROTOCOL-SCADA IEC 104 C_IC_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52192 || PROTOCOL-SCADA IEC 104 C_CS_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52193 || PROTOCOL-SCADA IEC 104 C_RP_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52194 || PROTOCOL-SCADA IEC 104 P_ME_NC_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52195 || PROTOCOL-SCADA IEC 104 F_AF_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52196 || PROTOCOL-SCADA IEC 104 F_FR_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52197 || PROTOCOL-SCADA IEC 104 P_AC_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52198 || PROTOCOL-SCADA IEC 104 F_SR_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52199 || PROTOCOL-SCADA IEC 104 F_SC_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52200 || PROTOCOL-SCADA IEC 104 F_LS_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52201 || PROTOCOL-SCADA IEC 104 F_SG_NA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52202 || PROTOCOL-SCADA IEC 104 F_DR_TA_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html
+52203 || PROTOCOL-SCADA IEC 104 F_SC_NB_1 || url,blog.snort.org/2016/12/iec60870-5-104-protocol-detection-rules.html

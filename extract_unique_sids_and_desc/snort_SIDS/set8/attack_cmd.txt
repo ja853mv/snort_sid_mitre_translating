@@ -1,0 +1,2 @@
+OpenVAS default scan -> metasploitable2 VM on james-newPC
+

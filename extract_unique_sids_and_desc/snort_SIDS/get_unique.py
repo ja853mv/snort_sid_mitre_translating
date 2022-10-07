@@ -1,6 +1,6 @@
 
 
-SET_NO = 2
+SET_NO = "9_recorded"
 
 
 
@@ -8,7 +8,7 @@ def main():
     file = open(f"set{SET_NO}/sids.txt", "r")
     sids = []
     for line in file:
-        sids.append(line.replace("\n", ""))
+        sids.append(int(line.replace("\n", "")))
 
     unique_sids = []
     for sid in sids:
@@ -36,10 +36,6 @@ def main():
                 print(f"{sid} -> {curr_alert}")
                 found = True
             count += 1
-
-
-
-
 
 
 if __name__ == "__main__":
