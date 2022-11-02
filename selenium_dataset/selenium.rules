@@ -1,0 +1,34 @@
+## get login page
+alert HTTP any 34126 -> any 80 (
+    msg:"GET /Portal/Portal.mwsl";
+    content:"|47 45 54 20 2f 50 6f 72 74 61 6c 2f 50 6f 72 74 61 6c 2e 6d 77 73 6c|"; # GET /Portal/Portal.mwsl
+    sid:1000020;
+    metadata: policy security-ips alert;
+)
+
+## get login page
+alert HTTP any 34126 -> any 80 (
+    msg:"GET /ClientArea/Dummy.mwsl";
+    content:"|47 45 54 20 2f 43 6c 69 65 6e 74 41 72 65 61 2f 44 75 6d 6d 79 2e 6d 77 73 6c|"; # GET /ClientArea/Dummy.mwsl
+    sid:1000021;
+    metadata: policy security-ips alert;
+)
+
+## post CPU commands - STOP
+alert HTTP any 34126 -> any 80 (
+    msg:"POST /CPUCommands AND STOP";
+    content:"|50 4f 53 54 20 2f 43 50 55 43 6f 6d 6d 61 6e 64 73|"; # POST /CPUCommands
+    content:"|53 54 4f 50|" # STOP
+    sid:1000021;
+    metadata: policy security-ips alert;
+)
+
+## post CPU commands - START -> CHECK THESE HEX STRINGS
+alert HTTP any 34126 -> any 80 (
+    msg:"POST /CPUCommands AND START";
+    content:"|50 4f 53 54 20 2f 43 50 55 43 6f 6d 6d 61 6e 64 73|"; # POST /CPUCommands
+    content:"|53 54 41 52 53|" # START
+    sid:1000021;
+    metadata: policy security-ips alert;
+)
+
