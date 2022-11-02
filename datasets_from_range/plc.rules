@@ -1,0 +1,43 @@
+## send hello plc
+alert tcp any any -> any 102 (
+    msg:"COTP - INITIAL ACCESS";
+    content:"|53 49 4d 41 54 49 43 2d 52 4f 4f 54 2d 45 53|"; # SIMATICROOT-ES
+    sid:1000010;
+    metadata: policy security-ips alert;
+)
+
+## xin 1 session debug
+alert tcp any any -> any 102 (
+    msg:"COTP - DEBUGGER SESSION";
+    content:"|53 65 72 76 65 72 53 65 73 73 69 6f 6e 5f 43|"  #ServerSession_C
+    content:"|53 2b 20 44 65 62 75 67 67 65 72|";  #S+ Debugger
+    within: 50;
+    sid:1000011;
+    metadata: policy security-ips alert;
+)
+
+## truoc start-stop
+alert tcp any any -> any 102 (
+    msg:"COTP - TRUAC START-STOP";
+    content:"|72 02 00 33 31 00 00 04 fc 00 00 00 07 00 00 03 a2 36 00 00 00 34 02 91 3d 9b 1e 00 00 04 e8 89 69 00 12 00 00 00 00 89 6a 00 13 00 89 6b 00 04 00 00 00 00 00 00 00 72 02 00 00|"
+    sid:1000012;
+    metadata: policy security-ips alert;
+)
+
+## stop command
+alert tcp any any -> any 102 (
+    msg:"COTP - STOP";
+    content:"|72 02 00 34 31 00 00 04 f2 00 00 00 08 00 00 03 a2 36 00 00 00 34 01 90 77 00 08 01 00 00 04 e8 89 69 00 12 00 00 00 00 89 6a 00 13 00 89 6b 00 04 00 00 00 00 00 00 00 72 02 00 00|"
+    sid:1000013;
+    metadata: policy security-ips alert;
+)
+
+## start command
+alert tcp any any -> any 102 (
+    msg:"COTP - START";
+    content:"|72 02 00 34 31 00 00 04 f2 00 00 00 08 00 00 03 b2 36 00 00 00 34 01 90 77 00 08 03 00 00 04 e8 89 69 00 12 00 00 00 00 89 6a 00 13 00 89 6b 00 04 00 00 00 00 00 00 00 72 02 00 00|"
+    sid:1000014;
+    metadata: policy security-ips alert;
+)
+
+

@@ -1,0 +1,15 @@
+
+
+
+
+alert TCP any any -> 192.168.80.134 any (msg:"COTP, port any"; sid:10000010; rev:1; )
+alert IP any any -> 192.168.80.134 any (msg:"IP"; sid:10000012; rev:1; )
+alert ICMP any any -> 192.168.80.134 any (msg:"ICMP"; sid:10000007; rev:1; )
+alert UDP any any -> 192.168.80.134 any (msg:"UDP"; sid:10000009; rev:1; )
+
+
+
+# alert TCP any any -> 192.168.80.134 any (msg:"COTP, port any"; sid:10000011; rev:1; )
+# alert TCP any any -> any any (msg:"TCP"; sid:10000008; rev:1; )
+
+
